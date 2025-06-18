@@ -47,9 +47,9 @@
   <a href="https://discord.com/users/705628911014510635" target="_blank">
     <img src="https://img.shields.io/badge/Discord-rizasylum-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:rizqiabdul288@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:rizqiabdul288@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/admiral-riz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-admiral--riz-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
