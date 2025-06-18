@@ -1,8 +1,7 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/2RMzX2O.gif" alt="Pixel Game Banner" width="500" />
+  <img src="https://raw.githubusercontent.com/admiral-riz/admiral-riz/main/assets/pixel-banner.gif" alt="Pixel Game Banner" width="100%" />
 </p>
-
 
 
 <h1 align="center">Hi there 👋, I'm Rizqi Abdul Rohmanu Latif</h1>
