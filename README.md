@@ -1,7 +1,8 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26gslU06kSBL6pL6w/giphy.gif" alt="Pixel Banner" width="500" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Pixel Game Banner" width="500" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Rizqi Abdul Rohmanu Latif</h1>
 <h3 align="center">Creative coder & full-stack developer from Indonesia 🇮🇩</h3>
