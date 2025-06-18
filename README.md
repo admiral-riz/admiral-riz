@@ -7,8 +7,9 @@
 <h3 align="center">Creative coder & full-stack developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+clean+code;Building+cool+projects;Always+learning&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/26gslU06kSBL6pL6w/giphy.gif" alt="Pixel Banner" width="500" />
 </p>
+
 
 ---
 
