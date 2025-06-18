@@ -1,14 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Rizqi</h1>
-<h3 align="center">A Web developer & Mobile Developor</h3>
+<h1 align="center">Hi there 👋, I'm admiral-riz</h1>
+<h3 align="center">A passionate developer & creative mind from Indonesia</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **personal projects and open-source tools**
-- 🌱 I’m currently learning **Full Stack Development & UI/UX**
-- 🧠 I love combining **code + design + community**
-- 🎯 My goal: Build impactful, minimalist, and useful digital things
-- 💬 Ask me about **tech, anime, or creative coding**
+- 🔭 I’m currently working on **open-source and personal projects**
+- 🌱 I’m learning **full-stack development** and **UI/UX design**
+- 🎨 I love building minimal and beautiful digital experiences
+- 🧠 Always curious and creating
 
 ---
 
@@ -29,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizasylum&show_icons=true&theme=radical" alt="rizasylum's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizasylum&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=admiral-riz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=admiral-riz&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,15 +41,12 @@
     <img src="https://img.shields.io/badge/Discord-rizasylum-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-ContactMe-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rizasylum">
-    <img src="https://img.shields.io/badge/GitHub-rizasylum-333333?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Rizqi+🚀;Let's+build+something+awesome+💡&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+admiral-riz+🚀;Let’s+build+something+awesome!&center=true&width=500&height=45">
 </p>
