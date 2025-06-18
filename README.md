@@ -57,10 +57,10 @@
     <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/r1zq_1102/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-r1zq_1102-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rizqi-abdul-rohmanu-l-6a0072293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-rizqi-abdul-rohmanu-l-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
