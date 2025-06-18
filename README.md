@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated Banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm admiral-riz</h1>
+<h1 align="center">Hi there 👋, I'm Rizqi Abdul Rohmanu Latif</h1>
 <h3 align="center">Creative coder & full-stack developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
