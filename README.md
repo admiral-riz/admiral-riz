@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Rizqi Abdul Rohmanu Latif</h1>
-<h3 align="center">Creative coder & full-stack developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Web Developer & Mobile Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+clean+code;Building+cool+projects;Always+learning&center=true&width=500&height=45">
@@ -16,10 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **personal tools & UI/UX side-projects**
-- 🌱 Learning **Next.js**, **API integration**, and **design systems**
+- 🔭 I’m currently working on **Web Developer & Mobile Developer**
+- 🌱 Still Learning **Next.js**, **API integration**, and **design systems**
 - 💡 Passionate about building minimalist, fast, and useful things
-- 🤝 Open for collaboration on web apps and automation tools
+- 🤝 Open for collaboration on web apps and mobile apps
 
 ---
 
