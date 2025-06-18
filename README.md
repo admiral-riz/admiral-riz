@@ -44,16 +44,26 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://discord.com/users/705628911014510635" target="_blank">
+  <a href="https://discord.com/users/705628911014510635">
     <img src="https://img.shields.io/badge/Discord-rizasylum-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-<a href="mailto:rizqiabdul288@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://github.com/admiral-riz" target="_blank">
+  <a href="mailto:rizqiabdul288@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rizqiabdul288@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/admiral-riz">
     <img src="https://img.shields.io/badge/GitHub-admiral--riz-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://steamcommunity.com/profiles/76561199154014965/">
+    <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/r1zq_1102/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rizqi-abdul-rohmanu-l-6a0072293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
