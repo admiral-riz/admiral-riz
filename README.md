@@ -5,10 +5,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Rizqi Abdul Rohmanu Latif</h1>
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/admiral-riz/admiral-riz/main/assets/profile_circular.png" alt="Profile Picture" width="200" />
-</p>
+
 <h3 align="center">Web Developer & Mobile Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
